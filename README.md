@@ -33,7 +33,7 @@ Données publiques **Home Credit Default Risk** :
 .
 ├── .gitignore
 ├── 00.description.ipynb              # Contexte & description du dataset
-├── 01.notebook_analyse_exploratoire_feature_engineering.ipynb
+├── 01.notebook_exploratory_analysis_and_feature_engineering.ipynb
 ├── 02.notebook_modelisation.ipynb
 ├── Projet 4.pdf                      # Slides de présentation
 ├── requirements.txt
